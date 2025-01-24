@@ -1,0 +1,502 @@
+[
+    {
+        "text":"i am feeling absolutely enraged right now as if the bathroom incident happened this morning when it happened over six years ago",
+        "label":"Anger",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i feel kind of relieved and really bad all the same times since well hes a super nice guy and has been a great boss all this time",
+        "label":"Joy",
+        "Sentiment":"Mixed"
+    },
+    {
+        "text":"im here in my home husband is out of town and im sipping a glass of red wine on my own im feeling disheartened and having to piece together all the emotions running through my body",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i didnt really feel as emotional as i thought i would",
+        "label":"Sadness",
+        "Sentiment":"Neutral"
+    },
+    {
+        "text":"i recited my feelings for you i knew you were ecstatic",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i drove to work feeling rather smug",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i dont share the same beliefs sometimes on all the core things we agree and so many times i feel like getting uptight and defending myself",
+        "label":"Fear",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i have had such a confidence booster being in this industry and feeling special but starting out as a new model is difficult",
+        "label":"Joy",
+        "Sentiment":"Mixed"
+    },
+    {
+        "text":"i really have to double time with all my other works so i can update this blog soon and show the world the reasons why i feel ecstatic today img src http s",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i have already built up a huge rapport with so many of my different clients that i visit i now feel as though i am part of their lives helping them supporting them and providing the with a comfortable and relaxed service",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i could still easily get rid of a bunch of clothes that i carry around in vain hopes that ill fit in them and will feel slutty enough to do so again",
+        "label":"Love",
+        "Sentiment":"Mixed"
+    },
+    {
+        "text":"i never thought i would have to go through and to feel these emotions months later is something that i didnt expect but my doctor reassured me why i am feeling this way and its totally normal",
+        "label":"Joy",
+        "Sentiment":"Neutral"
+    },
+    {
+        "text":"i must be feeling homesick",
+        "label":"Sadness",
+        "Sentiment":"Neutral"
+    },
+    {
+        "text":"i am glad that i am allowing myself in compassionate bits to feel the waves of feelings and not rushing to permanently numb them",
+        "label":"Sadness",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i am logomanaical or if feeling unkind that i have logorrhea",
+        "label":"Anger",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i feel it is much more then just some innocent fantasy",
+        "label":"Joy",
+        "Sentiment":"Neutral"
+    },
+    {
+        "text":"i am feeling fine i take suppliments for health",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i took a couple cuttings and trimmed back the lanky growth that hadnt filled out part of what made if feel unhappy and i hung it in the window to the left of my kitchen sink",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i cant just cheer up you think i like feeling so worthless",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i say they are quite stereotypical in this regard they will sit in front of their homework and keep going even when they feel cranky about it",
+        "label":"Anger",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i feeling so restless because i only worked clinic last evening and tis morning and i starting my late evening shift tmrw",
+        "label":"Fear",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i didnt feel his presence beside me while sleeping and the gentle arms that always here around my waist",
+        "label":"Love",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i am feeling pretty pleased with myself over the marmalade",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i feel very honored that some of my artworks are part of salon maastricht",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i often wanted to shout oh good lord who has the time to analyze the intention behind a husband buying a piece of jewelry for weeks and then just sit around feeling melancholy about it",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i find myself feeling even more offended for ms",
+        "label":"Anger",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i feel horrible about myself",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i feel like a lame wife",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i remember feeling surprised and wondering why he had dropped us there",
+        "label":"Surprise",
+        "Sentiment":"Neutral"
+    },
+    {
+        "text":"i am feeling emotional about is not going to change i am going to change as i travel through that experience",
+        "label":"Sadness",
+        "Sentiment":"Neutral"
+    },
+    {
+        "text":"i am feel curious me w",
+        "label":"Surprise",
+        "Sentiment":"Neutral"
+    },
+    {
+        "text":"i feel greedy and controlling",
+        "label":"Anger",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"im feeling a bit romantic today it seems",
+        "label":"Love",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i just feel terrific today",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i had my fair share of them and was ready to feel comfortable and relaxed",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i had a bad feeling at least with a trach trach complications aside i know her little lungs arent getting stressed out causing her pulmonary hypertension to get worse",
+        "label":"Anger",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i have no strong sensory memory of the red coat or great feelings of happiness about it though in the pictures it looks as cool as the shoes and they go great together",
+        "label":"Joy",
+        "Sentiment":"Neutral"
+    },
+    {
+        "text":"i feel theres still room to experiment some more this is what i said with divine intervention a mystery about psychic agents searching for a serial killer and book in a series i used up all days",
+        "label":"Joy",
+        "Sentiment":"Neutral"
+    },
+    {
+        "text":"i remember my friend dips telling me that not many ticks survive eggs may hatch but not many will reach adulthood so i m really feeling content with myself",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i always feel relaxed and happy there",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i was feeling smart about one aspect of the dinner",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i got to school feeling damn grouchy with my upset stomach to find out that my physics notes worksheet went missing and that i left my english compo at home",
+        "label":"Anger",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i want to understand how to be in love so in love with my partner and not feel really terrible about myself when i hear him say wow shes hot or yeah shes fucking amazing",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i feel a successful negotiation is when we have a meeting of the minds",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"im already a bit bored of chicken and salad but i am feeling fresher and more lively so must be doing something",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i can feel the cool moist wind smell the damp earth and hear the raindrops falling",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i do feel impatient and frustrated at not having a plan set in stone",
+        "label":"Anger",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"im here afraid too that she will wake up the next day feeling differently everyday but no matter how scared i am i know that things couldnt be so bad because i have her",
+        "label":"Fear",
+        "Sentiment":"Mixed"
+    },
+    {
+        "text":"i creep factor that effectively emulated the feel of cold war hysteria and the threat fear of communism note the use of red in the production that was a prevalent theme in the book",
+        "label":"Anger",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i feel joyful and yet so very sober",
+        "label":"Joy",
+        "Sentiment":"Mixed"
+    },
+    {
+        "text":"i type these words i feel a strong urge to go play them and see how all my little virtual worlds are doing",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"im not sure what is going on with me but i feel cranky as a constipated bear thank you google",
+        "label":"Anger",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i feel like he is just being a stubborn prick and that its easier for him to do that than to be with me",
+        "label":"Anger",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i always feel invigorated and refreshed after a good session out on the trail",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i guess its good that i feel smart more often than i feel dumb though",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"ive broken them in and they feel lovely until ive stood in them for four hours straight",
+        "label":"Love",
+        "Sentiment":"Neutral"
+    },
+    {
+        "text":"i feel content with all i accomplished",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i no longer feel the urge to prove to myself how strong i am",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i am feeling fantastic and people are certainly noticing the difference",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i have a feeling that would go over quite badly seeing as how we are hated here for loving the chiefs lmfao",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i feel every time when see petty girl",
+        "label":"Anger",
+        "Sentiment":"Neutral"
+    },
+    {
+        "text":"i can feel gods presence in the gentle bending of the trees as the wind blows",
+        "label":"Love",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i feel broke inside but i won t admit sometimes i just wanna hide because it s you i miss and it s so hard to say goodbye ever when you are where you are are you looking down upon me",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"im feeling brave i check out a href http www",
+        "label":"Joy",
+        "Sentiment":"Neutral"
+    },
+    {
+        "text":"i could feel was helplessness when you broke your small year old arm",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i feel rude i feel rude a href http mybangladiary",
+        "label":"Anger",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i feel like my beloved city is going to ruins",
+        "label":"Joy",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"im feeling lucky to be living here where we can see the ocean quite regularly",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i came into my senses and thought i had to do something before he could feel my cold hand touching his",
+        "label":"Anger",
+        "Sentiment":"Neutral"
+    },
+    {
+        "text":"i lay in bed crying violently into the dark feeling completely overwhelmed and hopeless about the fact that i m broken beyond repair",
+        "label":"Fear",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i feel like i need to be alone for a while",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i feel pathetic that i claimed to know you yet i still barely do",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i will make sure to walk or do yoga everyday for those are the things that make me happy even if i procrastinate about doing them or use them as my excuse for feeling rotten and stressed because i don t have enough time to do them all",
+        "label":"Sadness",
+        "Sentiment":"Mixed"
+    },
+    {
+        "text":"i woke up i was missing brody very much and had been feeling discouraged about my house hunt",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i decided rather than boring you with an i feel kinda crappy at the moment post id like to feature a special book edited by a member of the iwsg a href http nickwilford",
+        "label":"Sadness",
+        "Sentiment":"Neutral"
+    },
+    {
+        "text":"i am feeling that i am boring with my list so far haha",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"im feeling stress sucks and so the not so pretty truth about what im feeling stress sucksseptember th",
+        "label":"Joy",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i remember feeling impatient with the endless and convoluted fairy tale that was told throughout the book",
+        "label":"Anger",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i feel i am too s xy to be ignored",
+        "label":"Sadness",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i feel assured at last",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"im feeling slightly smug to be boarding an easyjet flight and heading south and heading for a temperature of c",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i didnt feel pain and it felt pretty comfortable",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i just feel anxiety about forgetting vital things like breast milk at home or not getting my drs note signed",
+        "label":"Joy",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i thought id alwayz feel held back dissatisfied angry",
+        "label":"Anger",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i feel judged and pressured to be someone im not because of this",
+        "label":"Fear",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"im feeling homesick or waxing profanely about how the addition of target and just a little more effort at being organized and reliable could make spain one of the best countries on the planet ill share something old from home",
+        "label":"Sadness",
+        "Sentiment":"Mixed"
+    },
+    {
+        "text":"i feel distressed or lonely music is my only companion",
+        "label":"Fear",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i feel talented in this different way that is so smart",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i still feel heartbroken over the decision but now i can be free",
+        "label":"Sadness",
+        "Sentiment":"Mixed"
+    },
+    {
+        "text":"i feel that he is actually very adventurous leh",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i feel intimidated by them and their developing brains and bodies",
+        "label":"Fear",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i still haven t locked anything down and i ve been hunting for a job for about a month but i m just feeling so pleased at how the process is moving along so far",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i really needed to let my feelings out and i m just very pissed right now",
+        "label":"Anger",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i am feeling quite satisfied and accomplished",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i feel virtuous afterwards",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"ive seen it in multiple academic and work settings and i often feel helpless when thinking of solutions",
+        "label":"Fear",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i feel terrific about how work has progressed today",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i always feel like we are on an episode of the amazing race whenever we try to find somewhere in mumbai as addresses are really just a rough guide and joachim invariably has to stop the car numerous times to jump out and ask for help which is not always very forthcoming",
+        "label":"Surprise",
+        "Sentiment":"Mixed"
+    },
+    {
+        "text":"i worried about feeling guilty about taking my daughters away from their mother on christmas since they were scheduled to be with me",
+        "label":"Sadness",
+        "Sentiment":"Mixed"
+    },
+    {
+        "text":"i still feel confident about this semester",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    }
+]

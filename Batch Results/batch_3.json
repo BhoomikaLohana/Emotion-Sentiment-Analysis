@@ -1,0 +1,502 @@
+[
+    {
+        "text":"i m writing about myself now but when i look at them here i feel wonderfully privileged to have known so many like and unlike myself in such extreme situations",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i didn t feel like much was resolved and was a little disappointed by this",
+        "label":"Joy",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i feel very privileged to have shared this event with everyone and highly recommend it to potterheads fans of things or just people who love reading",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i couldnt feel any divine being in my own pulse",
+        "label":"Joy",
+        "Sentiment":"Neutral"
+    },
+    {
+        "text":"im becoming cynical in my old age my birthdays in two days and im feeling aggravated by circumstances",
+        "label":"Anger",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i worked on a lot of techniques this past saturday and i feel confident in my ability to capture my first world championship",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i close my eyes but i can t help feel a re sidual melancholy either from the music or his demeanor",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i remembered it feels terrible i couldnt continue it was easy at all totally",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"im feeling stressed about this more than i should",
+        "label":"Anger",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i feel is an important part of the grieving and healing process",
+        "label":"Joy",
+        "Sentiment":"Neutral"
+    },
+    {
+        "text":"i feel safe enough to nap",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i feel heartless as i pass them by knowing that giving them money will only invite more trouble",
+        "label":"Anger",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i feel more peaceful already",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i would like to feel that loving presence too the kind everyone else feels",
+        "label":"Love",
+        "Sentiment":"Neutral"
+    },
+    {
+        "text":"i am feeling stressed out i grab a book workout or take a walk and i feel better than ever but sometimes we need a little bit of a boost to get us going so today im going to talk to you about a product that i received from swaggable",
+        "label":"Anger",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i definitely feel invigorated",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i made you feel i shudve been more considerate",
+        "label":"Love",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i feel as though putting these cartoon characters we grew up with as innocent children in a not so innocent situation reflects so the changes we go through from children to adults",
+        "label":"Joy",
+        "Sentiment":"Neutral"
+    },
+    {
+        "text":"i think i just remembered why i ve never bothered to watch election coverage i m left hoping my guy won but feeling completely helpless while all of these overly made up buffoons pretend to know what they re talking about",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i had been feeling a little drained spiritually and i was praying for god to refresh and revive my spirit and enable me to spend more time with him",
+        "label":"Sadness",
+        "Sentiment":"Neutral"
+    },
+    {
+        "text":"i should force my hand to find a resolution for it all i cant help but feel it would be in vain with bc coming and everyone so busy doing their own little thing",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i repeated feeling a little stupid",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i might have to take a trip out there in the off season when i m feeling homesick",
+        "label":"Sadness",
+        "Sentiment":"Neutral"
+    },
+    {
+        "text":"i did not feel sadness i did not feel frightened i was incredibly happy",
+        "label":"Fear",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"im off the medication and still not feeling much more energetic and worse i can feel my emotional range flattening",
+        "label":"Joy",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"im feeling pretty relieved about how things went on november especially since the democrats held onto the senate",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i space on we can t blame it in order to read that our actions that you see there are not bad to share each and we can t blame it on you have been hiding things might try to read that at several things he or has already cheated on you see we feel needy now this takes place",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i feel a little neglectful of my blog among other things",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i have a feeling that my thoughts on this are not going to be popular and that s ok with me",
+        "label":"Joy",
+        "Sentiment":"Neutral"
+    },
+    {
+        "text":"i feel the need to spend money on clothes again i will invest in a very precious designer basic or another leather jacket and swap it against a similar item thats already there so the number of black basics on my rack stays the same",
+        "label":"Joy",
+        "Sentiment":"Neutral"
+    },
+    {
+        "text":"i now feel fairly content to give the summer up because theres so many new things to celebrate and prepare for",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i just panicked until peony told me to go and get the doc he looked at me and i knew that he was feeling completely useless",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i know you still feel surprised about this thinking what could you have done to deserve it",
+        "label":"Surprise",
+        "Sentiment":"Neutral"
+    },
+    {
+        "text":"i hate feeling rushed its the one thing that totally throws me off and causes me to make mistakes",
+        "label":"Anger",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i really hate that feeling of getting ignored by someone u love",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i guess our feeling is that thats not acceptable",
+        "label":"Joy",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i kind of feel heartless",
+        "label":"Anger",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i was a wee bonny lass ive always wanted to go to something like a nightclub or a party or a concert where im surrounded by hundreds of people and i feel the divine spark i feel this connection of joy with them all because briefly we are all happy",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i feel distracted during those times",
+        "label":"Anger",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i don t have to live like that anymore but i m also grateful for the memory because that memory is pretty much the first one that my mind flicks to when i m feeling aggravated at mankind as a whole and afraid of everything including my shadow",
+        "label":"Anger",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i take comfort being paralyzed now for years and living in this weird state of abnormal separation from all things normal in knowing that i am always connected to god that these feelings of loneliness will pass and in once sense that aloneness loneliness can be good for us",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i do feel a little strange every time i say the phrase in real life in",
+        "label":"Fear",
+        "Sentiment":"Neutral"
+    },
+    {
+        "text":"i cant answer you about how my feelings i cant talk now as id lost all my wisdom i cant tell the truth because i have none so far",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i was apparently feeling rather sociable i became acquainted with cheriee not to be confused with cherie jersey trip which i accidentally kept calling her actually because theyre spelled so much alike but of course are pronounced differently",
+        "label":"Joy",
+        "Sentiment":"Neutral"
+    },
+    {
+        "text":"i feel a bit of furious that time",
+        "label":"Anger",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"im back to feeling deprived or im not sure yet what it is",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i had been feeling pretty pissed about this for the past few days pss i am gonna proof you wrong",
+        "label":"Anger",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i have an awesome brain that shuts down and put me in sleep mode when reality is hard when i feel troubled",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i havent had a bf for about a year now and just scared because i feel like no one really wants to be with me and am not pretty or intelligent enough for them",
+        "label":"Joy",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i limped along feeling helpless as my knowledge and memory faded and soon i was forced to stop working in public accounting",
+        "label":"Fear",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i feel disgusted when people judge others for the way they are dressed pray eat anything different than their lifestyle and they cast others evil and sinners",
+        "label":"Anger",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i look at them i feel proud knowing that i made them myself",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i was feeling somewhat excited about the graduation ceremony which will start at pm",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i feel positive about what i am doing",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i feel so mad i feel so angry i feel so callous so lost confused again i feel so cheap so used unfaithful let s start over let s start over let s start over",
+        "label":"Anger",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i feel very sorry for them because they are really missing out",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i was feeling grumpy this morning both work and personal life were making me grumpy",
+        "label":"Anger",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"ive rethought my feeling about this and have decided that i rather liked it when expensive items were thought of as inaccessible",
+        "label":"Love",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i feel like i should live up to my image and try to change what i perceive to be in my nature my nervous personality",
+        "label":"Fear",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"ill feel so pathetic",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i feel soo ungrateful but everyone else has such nice places to live and stuff left behind by past gappers to help them out",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i feel incredibly fantastic",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i know i should not feel ugly as i am a creation of god and not alone for i have jesus forever by me but nature looks me in the face everyday and shows me the brutality of earth",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"im still loving that im eating delicious food and not feeling deprived and even getting in a piece of pizza some beers and a few chicken wings",
+        "label":"Sadness",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i feel that what i find i should share and unfortunately it is not pleasant",
+        "label":"Joy",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i just feel mostly pathetic right now",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i did feel like i got through enough to confidently say which ones i liked in comparison to others",
+        "label":"Love",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i feel shocked to realize that whatever were talking about were both seeing understanding in the same way",
+        "label":"Surprise",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i have created and shared on this blog feel free to share it with others but please give credit and a link back to me and do not take credit for something that is not your creation",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i remembered years ago wondering how i would feel if revival broke out in rochester span style background yellow font size",
+        "label":"Sadness",
+        "Sentiment":"Neutral"
+    },
+    {
+        "text":"i feel very disillusioned and frustrated with british administration for anguilla",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i dont sense that i am feeling enraged until i throw something but i am getting better at recognizing the signs",
+        "label":"Anger",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i feel a little disturbed seeing distressed members of society being pimped out in such a blatant no holds barred media way as to create a special pipeline and a need for more ajc print products and to increase ipad app downloads",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"ive spent way too much time feeling pain to the point that im frightened to leave myself open to it",
+        "label":"Fear",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"im feeling so groggy still",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i am feeling stressed that i will go blank and not be able to perform the day we do our exams",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i feel so pathetic every time when we quarrel ad weve to ignore each other i feel like really i lose a part of me but why",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"im feeling like the next couple days are going to be entirely devoted to scarlett since i didnt get to spend much time with her this weekend",
+        "label":"Love",
+        "Sentiment":"Neutral"
+    },
+    {
+        "text":"i feel joyful about avoiding",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i mean i feel like its such a tragic loss i cant even begin to imagine how the band and his family must feel and what theyre going through right now",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i spent years walking around the gym feeling absolutely terrified feeling judged feeling small feeling stupid",
+        "label":"Fear",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i wont feel as pressured into working faster",
+        "label":"Fear",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i don t feel ugly today",
+        "label":"Sadness",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i found no satisfaction and no contentment chasing the feeling of being happy",
+        "label":"Joy",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i feel eager for things to really start happening",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"ive got going on that is incredibly intensive and difficult and causing me to feel very stressed about it",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i have a feeling words will be angered with me and this time it asnt my fault",
+        "label":"Anger",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i feel someone s hands wrap around me and i m frightened thinking someone else is trying to hurt me",
+        "label":"Fear",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i battle back and forth feeling anxiety over not being productive yet unable to be productive",
+        "label":"Joy",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i feel lost and stressed out a little but i wil",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i must say i feel a little jaded because my organisation the heart foundation cancer choice have spent quite a significant amount of time and quite a reasonable amount of money to come to this point and i think its entirely inappropriate action from the food and grocery council he said",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i feel that if i ask for help that somehow makes me less intelligent than the person im asking for help from and i cant stand that feeling",
+        "label":"Joy",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i wouldn t be getting long winded about this had it just been an isolated incident and i hate feeling so cranky over the idea that the arts are thriving to the point where a saturday matinee for the city ballet is so well sold at least in the upper sections",
+        "label":"Anger",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i need to tell people about myself or im not going to feel like im decaying emotionally losing touch and become neurotic",
+        "label":"Fear",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i feel accepted there said panorma who is from indonesia",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i feel a bit ashamed about it",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i just feel like i want to change it again a href http sweet pleione",
+        "label":"Joy",
+        "Sentiment":"Neutral"
+    },
+    {
+        "text":"i can feel glamorous without makeup too especially on my lips",
+        "label":"Joy",
+        "Sentiment":"Positive"
+    },
+    {
+        "text":"i feel like i deserve to feel this way like i deserve to be punished",
+        "label":"Sadness",
+        "Sentiment":"Negative"
+    },
+    {
+        "text":"i feel and know i am very messy in the kitchen and i really really want to work better in the kitchen so i dont mess up when i do it for reals",
+        "label":"Sadness",
+        "Sentiment":"Neutral."
+    }
+]
